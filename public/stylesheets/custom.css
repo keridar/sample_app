@@ -3,7 +3,7 @@
 }
 
 body {
-  background: #cff;
+  background: #357EC7;
 }
 
 header {
@@ -127,3 +127,7 @@ a.signup_button {
   -webkit-border-radius: 10px;
   border-radius:         10px;
 }
+/* sign up page margins */
+
+div.field, div.actions {
+  margin-bottom: 10px;
