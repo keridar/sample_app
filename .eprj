@@ -6,8 +6,16 @@
         <dict>
             <key>follo</key>
             <string>app\views\users\_follow.html.erb</string>
+            <key>micropost.rb</key>
+            <string>app\models\micropost.rb</string>
+            <key>micropost_sp</key>
+            <string>spec\models\micropost_spec.rb</string>
             <key>unfollow</key>
             <string>app\views\users\_unfollow.html.erb</string>
+            <key>user.</key>
+            <string>app\models\user.rb</string>
+            <key>user_e</key>
+            <string>spec\models\user_spec.rb</string>
         </dict>
     </dict>
 </plist>
